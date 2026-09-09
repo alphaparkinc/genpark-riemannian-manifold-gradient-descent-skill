@@ -1,0 +1,13 @@
+{
+  "name": "genpark-riemannian-manifold-gradient-descent-skill",
+  "version": "1.0.0",
+  "description": "Riemannian gradient descent optimizer on spherical and Stiefel manifolds with orthogonal tangent space projections and geodesic retractions.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "riemannian-optimization",
+    "manifold-gradient-descent",
+    "retraction",
+    "differential-geometry"
+  ]
+}
